@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Plants Collection</string>
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_collection_item">Collection</string>
+    <string name="bottom_add_item">Ajouter</string>
+    <string name="bottom_add_user">Profil</string>
+
+    <!-- Connexion -->
+    <string name="connexion_page_title">Connexion</string>
+    <string name="email_connexion">Email</string>
+    <string name="mdp_connexion">Mot de passe</string>
+    <string name="submit_connexion">Se connecter</string>
+    <string name="add_user_connexion">Créer un compte</string>
+
+    <!--Page d'accueil -->
+    <string name="home_page_title">À découvrir</string>
+    <string name="home_page_last_plant_section">Dernières plantes</string>
+
+    <!-- Page de collection -->
+    <string name="collection_page_title">Ma collection</string>
+
+    <!-- Page pour ajout de plantes -->
+    <string name="add_plant_page_title">Ajout d\'une plante</string>
+    <string name="add_plant_page_upload_button">CHARGER IMAGE</string>
+    <string name="add_plant_page_name_input">@string/item_plant_name</string>
+    <string name="add_plant_page_description_input">@string/item_plant_description</string>
+
+    <string-array name="add_plant_page_grow_spinner_input">
+        <item>Croissance : Lente</item>
+        <item>Croissance : Moyenne</item>
+        <item>Croissance : Rapide</item>
+    </string-array>
+
+    <string-array name="add_plant_page_water_spinner_input">
+        <item>Consommation : Faible</item>
+        <item>Consommation : Moyenne</item>
+        <item>Consommation : Élevée</item>
+    </string-array>
+
+    <string name="add_plant_page_confirm_button">CONFIMER</string>
+
+    <!-- Fenêtre Popup de détails -->
+    <string name="popup_plant_name">Plant Name</string>
+    <string name="popup_plant_description_title">Description</string>
+    <string name="popup_plant_description_subtitle">Petite description</string>
+    <string name="popup_plant_grow_title">Croissance</string>
+    <string name="popup_plant_grow_subtitle">Lente</string>
+    <string name="popup_plant_water_title">Consommation Eau</string>
+    <string name="popup_plant_water_subtitle">Faible</string>
+
+    <!-- Page pour ajout de plantes -->
+    <string name="item_plant_name">Nom de la plante</string>
+    <string name="item_plant_description">Description de la plante</string>
+
+    <!-- Page de profil -->
+    <string name="profil_page_title">Mon profil</string>
+    <string name="name_user">NOM et Prénom</string>
+
+    <!-- Page création de compte -->
+    <string name="add_user_page_title">Création du compte</string>
+    <string name="submit_save">Enregistrer</string>
+    <string name="confirm_mdp_add_user">Confirmation du mot de passe</string>
+
+</resources>

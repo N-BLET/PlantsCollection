@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26463867185",
+    "project_id": "plant-collection-3974b",
+    "storage_bucket": "plant-collection-3974b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26463867185:android:5aaed67b2463354fefa010",
+        "android_client_info": {
+          "package_name": "fr.nblet.plantcollection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmEODNh0438ikF_98zzXQ_jTMvm6hkkGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
