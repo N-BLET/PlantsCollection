@@ -50,7 +50,7 @@ class PlantAdapter(
         holder.plantName?.text = currentPlant.name
         holder.plantDescription?.text = currentPlant.description
 
-        // Vérification si la plante a été liké
+        // Vérification si la plante a été likée
         if(currentPlant.liked){
             holder.starIcon.setImageResource(R.drawable.ic_star)
         }else{

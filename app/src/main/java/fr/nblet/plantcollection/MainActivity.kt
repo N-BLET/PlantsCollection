@@ -8,7 +8,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView
 import fr.nblet.plantcollection.fragments.AddPlantFragment
 import fr.nblet.plantcollection.fragments.CollectionFragment
 import fr.nblet.plantcollection.fragments.HomeFragment
-
+import fr.nblet.plantcollection.fragments.ProfilFragment
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
                 }
 
                 R.id.add_user_page -> {
-                    loadFragment(AddPlantFragment(this), R.string.profil_page_title)
+                    loadFragment(ProfilFragment(this), R.string.profil_page_title)
                     return@setOnNavigationItemSelectedListener true
                 }
 
