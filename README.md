@@ -1,4 +1,4 @@
-# PlantsCollection
+# PlantsCollection 🪴
 
 ## Description
 Ce dépôt GitHub correspond au développement d’une application mobile développée en Kotlin avec l'IDE Android Studio. L'objectif de cette application est de permettre aux utilisateurs de partager des informations sur des plantes et de gérer leur propre collection de plantes favorites.
